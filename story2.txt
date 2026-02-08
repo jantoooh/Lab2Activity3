@@ -1,0 +1,1 @@
+print("This is story 2.")
